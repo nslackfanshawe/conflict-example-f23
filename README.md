@@ -12,4 +12,6 @@ Random Text, this is an example, this is an example. this is an example, this is
 
 Exampling it, and by it, I mean my example
 
+RANDOM CONFLICT, CREATE THE CONFLICT, CONFLICT, CREATE THE CONFLICT, CONFLICITNG REPORTS OF CONFLICTING REPORTS OF CONFLICTING REPORTS
+
 This is a repo that is used, in class, to demonstrate how to solve a merge conflict when it occurs with your teammates. Sometimes Github will automatically solve the issue, other times it cannot and requires human intervention.
